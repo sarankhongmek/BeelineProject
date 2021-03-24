@@ -13,9 +13,6 @@
   ],
   "addons": [
     {
-      //"plan": "mongolab:sandbox"
-    },
-    {
       "plan": "papertrail:choklad"
     }
   ],
